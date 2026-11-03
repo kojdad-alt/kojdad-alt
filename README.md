@@ -11,6 +11,13 @@ Hlavní developer Minecraft serveru **[Arconia](https://arconia.cz)** (`mc.arcon
 - **Heroes & Dungeons** – RPG režim Arconie s dungeony, bossy a kovárnou
 - **SkyRealm** – SMP s ostrovy
 
+### Veřejné repozitáře
+
+- **[67ZakladniSkola](https://github.com/kojdad-alt/67ZakladniSkola)** – školní zadání „Vizitka školy“:
+  jednostránkový web smyšlené základní školy jen v HTML, CSS a Bootstrapu, bez JavaScriptu.
+  Tmavé téma, tisková verze a vlastní kontrola přístupnosti, kontrastu a SEO v Pythonu.
+  [Web na GitHub Pages](https://kojdad-alt.github.io/67ZakladniSkola/)
+
 ### Technologie
 
 Java · Paper API · MythicMobs · ModelEngine · Laravel · React · HTML · CSS · Bootstrap
