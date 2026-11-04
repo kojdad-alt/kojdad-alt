@@ -12,7 +12,7 @@ Ahoj, jsem **Daliik**. Stavím Minecraft server **[Arconia](https://arconia.cz)*
 
 ## RuGee
 
-<a href="https://kojdad-alt.github.io/RuGee/"><img src="assets/rugee.gif" alt="Ukázka hry RuGee: hrdina na louce, kolem hordy nepřátel a zbraně, které střílí samy" width="100%"></a>
+<p align="center"><a href="https://kojdad-alt.github.io/RuGee/"><img src="assets/rugee.gif" alt="Ukázka hry RuGee: hrdina na louce, kolem hordy nepřátel a zbraně, které střílí samy" width="640"></a></p>
 
 **Survivors hra v prohlížeči.** Hýbeš se jen ty, zbraně střílí samy a hordy nekončí.
 14 zbraní bez stropu úrovní, bossové každé 3 minuty, 6 map a čisté HTML, CSS a JavaScript bez enginu.
@@ -48,6 +48,7 @@ Ahoj, jsem **Daliik**. Stavím Minecraft server **[Arconia](https://arconia.cz)*
 
 ## Technologie
 
+<p>
 <img src="https://img.shields.io/badge/Java-1a1036?style=flat-square&logo=openjdk&logoColor=f2c14e" alt="Java">
 <img src="https://img.shields.io/badge/Paper-1a1036?style=flat-square&logo=minecraft&logoColor=7fc94a" alt="Paper">
 <img src="https://img.shields.io/badge/MythicMobs-1a1036?style=flat-square" alt="MythicMobs">
@@ -56,6 +57,7 @@ Ahoj, jsem **Daliik**. Stavím Minecraft server **[Arconia](https://arconia.cz)*
 <img src="https://img.shields.io/badge/JavaScript-1a1036?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript">
 <img src="https://img.shields.io/badge/HTML-1a1036?style=flat-square&logo=html5&logoColor=e34f26" alt="HTML">
 <img src="https://img.shields.io/badge/CSS-1a1036?style=flat-square&logo=css&logoColor=663399" alt="CSS">
+</p>
 
 <div align="center">
 <sub>mc.arconia.cz · arconia.cz</sub>
